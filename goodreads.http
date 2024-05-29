@@ -1,0 +1,11 @@
+###
+POST http://localhost:3000/users/
+Content-Type: application/json
+
+{
+  "username": "Vishal",
+  "name": "VISHAL KUMAR",
+  "password": "Bowler6!",
+  "gender":"Male",
+  "location":"Visakhapatnam"
+}
